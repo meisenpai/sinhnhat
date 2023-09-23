@@ -35,8 +35,8 @@ const music_list = [
     },
     {
         img : './IMAGE/pic3.jpg',
-        name : 'RỒI TA SẼ NGẮM PHÁO HOA CÙNG NHAU',
-        artist : 'Andiez',
+        name : 'Rồi ta sẽ ngắm pháo hoa cùng nhau',
+        artist : 'O.lew',
         music : './AUDIO/RỒI TA SẼ NGẮM PHÁO HOA CÙNG NHAU - MV OFFICIAL - O.lew (1).mp3'
     }
 ];
